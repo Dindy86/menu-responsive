@@ -10,7 +10,7 @@ body{
 header{
   width:100%;
   height:100px;
-  background-color: blue;
+  background-color: #26427d;
   position:sticky;
   top:0;
   left:0;
@@ -70,7 +70,7 @@ header h1{
   height: 50px;
   top: 35px;
   margin: 0 auto;
-  background-color: darkblue;
+  background-color: #26427d;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -99,7 +99,7 @@ header h1{
   width: 100%;
   height: 40px;
   font-size: 16px;
-  border-bottom: solid 1px blue;
+  border-bottom: solid 1px #26427d;
   padding: 10px;
 }
 
